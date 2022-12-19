@@ -1,0 +1,35 @@
+html,body {
+  padding: 0;
+  margin: 0;
+  font-size: 1rem;
+  color: #000000;
+  scroll-behavior: smooth;
+  overflow-x: hidden;   
+  font-family: 'Mondia-Medium', sans-serif!important; 
+}
+
+/* Font Styles */
+@font-face {
+  font-family: 'Mondia-Bold';
+  src: url('./fonts/MondiaBold.otf'); 
+}
+@font-face {
+  font-family: 'Mondia-Light';
+  src: url('./fonts/MondiaLight.otf'); 
+}  
+@font-face {
+  font-family: 'Mondia-Medium';
+  src: url('./fonts/MondiaMedium.otf'); 
+} 
+.mondiaBold {
+    font-family: 'Mondia-Bold';
+    src: url('./fonts/MondiaBold.otf'); 
+}
+.mondiaLight {
+    font-family: 'Mondia-Light';
+    src: url('./fonts/MondiaLight.otf'); 
+}
+.mondiaMedium {
+  font-family: 'Mondia-Medium';
+  src: url('./fonts/MondiaMedium.otf'); 
+}

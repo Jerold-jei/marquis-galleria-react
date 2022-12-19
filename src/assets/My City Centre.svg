@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #be9952;
+      }
+    </style>
+  </defs>
+  <g id="condominium">
+    <path id="Path_1504" data-name="Path 1504" class="cls-1" d="m70,76h3v52h20v2h14v-2h20v-52h3v-6h-60v6Zm25,52v-2h10v2h-10Zm10-4h-4v-8h4v8Zm-6,0h-4v-8h4v8Zm26,2h-18v-12h-14v12h-18v-50h50v50Zm-53-54h56v2h-56v-2Z"/>
+    <path id="Path_1505" data-name="Path 1505" class="cls-1" d="m91.34,94.39v-16.26h-14.23v16.26h14.23Zm-8.13-2.03v-4.06h2.03v4.07h-2.03Zm6.1,0h-2.04v-4.06h2.04v4.06Zm-10.16-12.2h10.16v6.1h-10.17v-6.1Zm0,12.2v-4.06h2.03v4.07h-2.03Z"/>
+    <path id="Path_1506" data-name="Path 1506" class="cls-1" d="m91.34,112.11v-16.26h-14.23v16.26h14.23Zm-8.13-2.03v-4.07h2.03v4.07h-2.03Zm6.1,0h-2.04v-4.07h2.04v4.07Zm-10.16-12.2h10.16v6.1h-10.17v-6.1Zm0,12.2v-4.07h2.03v4.07h-2.03Z"/>
+    <path id="Path_1507" data-name="Path 1507" class="cls-1" d="m107.11,112.11v-16.26h-14.23v16.26h14.23Zm-8.13-2.03v-4.07h2.03v4.07h-2.03Zm6.1,0h-2.03v-4.07h2.03v4.07Zm-10.17-12.2h10.17v6.1h-10.17v-6.1Zm0,12.2v-4.07h2.03v4.07h-2.03Z"/>
+    <path id="Path_1508" data-name="Path 1508" class="cls-1" d="m122.89,112.11v-16.26h-14.23v16.26h14.23Zm-8.13-2.03v-4.07h2.03v4.07h-2.03Zm6.1,0h-2.03v-4.07h2.04v4.07Zm-10.17-12.2h10.17v6.1h-10.17v-6.1Zm0,12.2v-4.07h2.03v4.07h-2.03Z"/>
+    <path id="Path_1509" data-name="Path 1509" class="cls-1" d="m107.11,94.39v-16.26h-14.23v16.26h14.23Zm-8.13-2.03v-4.06h2.03v4.07h-2.03Zm6.1,0h-2.03v-4.06h2.03v4.06Zm-10.16-12.2h10.16v6.1h-10.17v-6.1Zm0,12.2v-4.06h2.03v4.07h-2.03Z"/>
+    <path id="Path_1510" data-name="Path 1510" class="cls-1" d="m122.89,94.39v-16.26h-14.23v16.26h14.23Zm-8.13-2.03v-4.06h2.03v4.07h-2.03Zm6.1,0h-2.03v-4.06h2.03v4.06Zm-10.16-12.2h10.16v6.1h-10.17v-6.1Zm0,12.2v-4.06h2.03v4.07h-2.03Z"/>
+    <path id="Path_1511" data-name="Path 1511" class="cls-1" d="m91.34,113.74h-14.23v10.16h14.23v-10.16Zm-2.03,8.13h-10.17v-6.1h10.17v6.1Z"/>
+    <path id="Path_1512" data-name="Path 1512" class="cls-1" d="m122.89,113.74h-14.23v10.16h14.23v-10.16Zm-2.03,8.13h-10.16v-6.1h10.17v6.1Z"/>
+  </g>
+</svg>
